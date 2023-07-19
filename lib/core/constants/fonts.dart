@@ -1,0 +1,12 @@
+const String BOLD = 'OpenSans-Bold';
+const String BOLD_ITALIC = 'OpenSans-BoldItalic';
+const String EXTRA_BOLD = 'OpenSans-ExtraBold';
+const String EXTRA_BOLD_ITALIC = 'OpenSans-ExtraBoldItalic';
+const String ITALIC = 'OpenSans-Italic';
+const String LIGHT_ITALIC = 'OpenSans-LightItalic';
+const String MEDIUM = 'OpenSans-Medium';
+const String MEDIUM_ITALIC = 'OpenSans-MediumItalic';
+const String REGULAR = 'OpenSans-Regular';
+const String SEMI_BOLD = 'OpenSans-SemiBold';
+const String SEMI_BOLD_ITALIC = 'OpenSans-SemiBoldItalic';
+const String LIGHT = 'OpenSans-Light';
